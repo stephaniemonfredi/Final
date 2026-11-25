@@ -4,12 +4,12 @@ Fonts are separated by a | */
 @import url("https://fonts.googleapis.com/css?family=IM+Fell+French+Canon+SC|Lato");
 
 :root {
-    /* this is probably going to change 
+    /* this is might change 
   /* change the values below to your colors from your palette */
-  --primary-color: #20572d;
-  --secondary-color: #59391e;
-  --accent1-color: #c16216;
-  --accent2-color: white;
+  --primary-color: #354B3A;
+  --secondary-color: #E8D8B5;
+  --accent1-color: #A66B45;
+  --accent2-color: #8271A5;
 
   /* change the values below to your chosen font(s) */
   --heading-font: "IM Fell French Canon SC";
